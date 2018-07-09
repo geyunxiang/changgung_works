@@ -1,0 +1,10 @@
+# ignore everything
+*
+
+# except directories
+!jixieshou_20180703
+
+# except files ending with .py or .mat
+!*.py
+!*.mat
+!.gitignore
