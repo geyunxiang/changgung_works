@@ -3,6 +3,7 @@
 
 # except directories
 !jixieshou_20180703
+!dou_20180710
 
 # except files ending with .py or .mat
 !*.py
